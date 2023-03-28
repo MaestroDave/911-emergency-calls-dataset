@@ -10,8 +10,11 @@ This project requires the following dependencies:
 Python 3
 
 pandas
+
 matplotlib
+
 seaborn
+
 folium
 
 ## You can install the dependencies using the following command:
