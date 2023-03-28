@@ -8,6 +8,7 @@ To use this repository, you can clone or download it to your local machine. The 
 This project requires the following dependencies:
 
 Python 3
+
 pandas
 matplotlib
 seaborn
