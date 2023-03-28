@@ -11,13 +11,11 @@ Python 3
 pandas
 matplotlib
 seaborn
+folium
 
 ## You can install the dependencies using the following command:
 
 pip install -r requirements.txt
-
-## License
-This project is licensed under no License.
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me at mdavid@puclimited.com
